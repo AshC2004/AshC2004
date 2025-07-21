@@ -11,50 +11,80 @@
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
 - 🎯 **Currently:** Final year B.E. student specializing in AI and Data Science at **Nitte Meenakshi Institute of Technology (NMIT), Bangalore**
-- 🌱 **Expanding skills in:** Software Development, Full Stack Development, and Advanced AI/ML concepts through hands-on projects
-- 💡 **Driven by:** Passion for creating innovative solutions leveraging Artificial Intelligence, Machine Learning, and Data Science
-- 🔍 **Seeking:** Full-time roles, internships, and collaborative opportunities to apply and grow my technical expertise
-- 📫 **Let's connect:** Enthusiastic about networking, discussing emerging technologies, and exploring impactful projects!
+
+## 🔨 I'm currently working on:
+- Building innovative Software Development and AI/ML projects to apply theoretical knowledge practically
+- Developing full-stack applications using modern web technologies
+- Strengthening my problem-solving skills through competitive programming
+- Creating a portfolio of real-world projects for my final year
+
+## 🤝 I'm looking to collaborate on:
+- Open-source AI/ML projects and data science initiatives
+- Full-stack web development projects
+- Student-led tech communities and hackathons
+- Research projects in artificial intelligence and machine learning
+
+## 🆘 I'm looking for help with:
+- Advanced machine learning algorithms and their practical implementations
+- Best practices for full-stack development architecture
+- Career guidance for transitioning from student to professional developer
+- Code reviews and feedback on my projects
+
+## 📚 I'm currently learning:
+- Advanced AI/ML concepts including deep learning and neural networks
+- Full-stack development with modern frameworks and technologies
+- Software development best practices and design patterns
+- Data structures and algorithms for technical interviews
+
+## 💬 Ask me about:
+- My journey as an AI & Data Science student at NMIT Bangalore
+- Python, C++, Java, Go, or R programming challenges
+- AI/ML project ideas and implementation strategies
+- Student life in tech and balancing academics with skill development
+- My experience with different programming languages
+
+## 🎉 Fun fact:
+I'm passionate about exploring the intersection of AI and real-world problem solving - I believe every line of code can make a difference! When I'm not coding, you'll find me staying updated with the latest tech trends and thinking about how emerging technologies can shape our future.
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### Areas of Expertise
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 📊 **Data Science & Analytics**
-- 💻 **Software Development**
-- 🌐 **Full Stack Development**
+## AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+## Tools & Technologies
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshC2004&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshC2004&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
----
-
-## 🎯 Current Focus
-
-- 🔬 Building innovative AI/ML projects
-- 📚 Mastering advanced algorithms and data structures
-- 🌐 Developing full-stack applications
-- 🚀 Contributing to open-source projects
-- 💼 Seeking opportunities in software development and AI/ML roles
 
 ---
 
@@ -66,11 +96,20 @@
 
 ---
 
-## 🤝 Let's Connect!
+## 🔝 Top Contributed Repositories
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AshC2004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+# 🌐 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhabra-ashish-be/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/chhabra-ashish-be)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_ashish_chhabra)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashchh2004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshC2004)
 
 </div>
@@ -82,7 +121,5 @@
 ### 💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 **⭐ From [Ashish Chhabra](https://github.com/AshC2004)**
-
-![Profile Views](https://komarev.com/ghpvc/?username=AshC2004&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
