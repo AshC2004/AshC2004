@@ -3,9 +3,9 @@
 # Hi there! 👋 I'm Ashish Chhabra
 
 ### 🎓 Final Year B.E. Student | AI & Data Science @ NMIT Bangalore
-### 💻 AI/ML Enthusiast | Software Developer | #OpenToWork
+### 💻 AI/ML Enthusiast | #OpenToWork
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Student;Software+Development+Enthusiast;Always+Learning+New+Technologies;Open+to+Collaborations!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Student;Always+Learning+New+Technologies;Open+to+Collaborations!" alt="Typing SVG" />
 
 </div>
 
