@@ -16,7 +16,7 @@
 - 🎯 **Currently:** Final year B.E. student specializing in AI and Data Science at **Nitte Meenakshi Institute of Technology (NMIT), Bangalore**
 
 ## 🔨 I'm currently working on:
-- Building innovative Software Development and AI/ML projects to apply theoretical knowledge practically
+- Building innovative AI/ML projects along Software Development to apply theoretical knowledge practically
 - Developing full-stack applications using modern web technologies
 - Strengthening my problem-solving skills through competitive programming
 - Creating a portfolio of real-world projects for my final year
@@ -79,46 +79,11 @@ I'm passionate about exploring the intersection of AI and real-world problem sol
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshC2004&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshC2004&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
-## 📊 Recent Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshC2004&theme=tokyo-night&days=15" />
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AshC2004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</div>
-
----
-
 # 🌐 Let's Connect!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/chhabra-ashish-be)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashchh2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshC2004)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-**⭐ From [Ashish Chhabra](https://github.com/AshC2004)**
 
 </div>
