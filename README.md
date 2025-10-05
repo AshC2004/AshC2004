@@ -39,16 +39,6 @@
 - Software development best practices and design patterns
 - Data structures and algorithms for technical interviews
 
-## 💬 Ask me about:
-- My journey as an AI & Data Science student at NMIT Bangalore
-- Python, C++, Java, Go, or R programming challenges
-- AI/ML project ideas and implementation strategies
-- Student life in tech and balancing academics with skill development
-- My experience with different programming languages
-
-## 🎉 Fun fact:
-I'm passionate about exploring the intersection of AI and real-world problem solving - I believe every line of code can make a difference! When I'm not coding, you'll find me staying updated with the latest tech trends and thinking about how emerging technologies can shape our future.
-
 ---
 
 # 💻 Tech Stack
