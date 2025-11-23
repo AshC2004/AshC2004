@@ -9,7 +9,7 @@
 I'm a B.E. student in **Artificial Intelligence & Data Science** at Nitte Meenakshi Institute of Technology, Bangalore (CGPA: 8.2). Passionate developer with hands-on experience in AI/ML and data science from my internship at Schneider Electric's Project Ecosystem Team.
 
 - 🔭 **Current Focus**: Deep Learning, MLOps, Data Engineering, and Backend Development
-- 🌱 **Learning**: Production ML systems, Distributed architectures, Cloud deployment
+- 🌱 **Learning**: Data Engineering, MCP, Production ML systems, Distributed architectures, Cloud deployment
 - 👯 **Open to**: Full-time opportunities in AI/ML Engineering, Data Science, and Backend Development
 - 📫 **Reach me**: [LinkedIn](https://linkedin.com/in/chhabra-ashish-be) | [Email](mailto:ashchh2004@gmail.com)
 - ⚡ **Leadership**: Secretary at IEEE CIS & Vice President at AUGMENTiX
