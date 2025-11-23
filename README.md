@@ -16,14 +16,14 @@ I'm a B.E. student in **Artificial Intelligence & Data Science** at Nitte Meenak
 
 ## 💼 Professional Experience
 
-### AI/ML Engineering Intern | Schneider Electric (Project Ecosystem Team)
+### Intern | Schneider Electric (Project Ecosystem Team)
 *October 2024 - December 2024*
 - Integrated AI capabilities into Schneider's product ecosystem, developing scalable AI-driven enhancement workflows
 - Built ML-powered anomaly detection for IoT energy monitoring using time-series analysis
 - Developed RAG systems for intelligent document processing achieving 92% accuracy
 - Implemented predictive maintenance models reducing equipment downtime by 30%
-- Collaborated with cross-functional teams to prototype AI features increasing operational efficiency
-- **Technologies**: Python, TensorFlow, scikit-learn, LangChain, FastAPI, PostgreSQL, Docker
+- Collaborated with cross-functional teams to prototype AI and Data implimentation features increasing operational efficiency
+- **Technologies**: Python, SQL, TensorFlow, scikit-learn, LangChain, FastAPI, PostgreSQL, Docker
 
 ## 🚀 Projects
 
