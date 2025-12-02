@@ -1,12 +1,8 @@
 # Hi there! I'm Ashish Chhabra 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=AI+%26+DS+Engineer;Data+Science+Enthusiast;Backend+Developer;B.E.+AI+%26+Data+Science" alt="Typing SVG" />
-</div>
-
 ## 🎓 About Me
 
-I'm a B.E. student in **Artificial Intelligence & Data Science** at Nitte Meenakshi Institute of Technology, Bangalore (CGPA: 8.2). Passionate developer with hands-on experience in AI/ML and data science from my internship at Schneider Electric's Project Ecosystem Team.
+I'm a B.E. student in **Artificial Intelligence & Data Science** at Nitte Meenakshi Institute of Technology, Bangalore (CGPA: 8.2). Passionate developer with experience in AI/ML and data science from my internship at Schneider Electric's in the Project Ecosystem Team.
 
 - 🔭 **Current Focus**: Deep Learning, MLOps, Data Engineering, and Backend Development
 - 🌱 **Learning**: Data Engineering, MCP, Production ML systems, Distributed architectures, Cloud deployment
