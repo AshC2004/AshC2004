@@ -47,7 +47,7 @@ Data             Pandas · NumPy · Apache Kafka · ETL Pipelines
 
 ## Currently
 
-- 🎓 B.E. AI & Data Science @ NMIT Bangalore - 8.2 CGPA, June 2026
+- 🎓 B.E. AI & Data Science @ NMIT Bangalore - 8.4 CGPA, Graduting June 2026
 - 🔧 At Schneider Electric: RAG architectures, vector DB evaluation, MCP backends
 - 📜 Certified: Azure Fundamentals, Generative AI with LLMs
 
