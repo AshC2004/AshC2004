@@ -1,6 +1,6 @@
 # Ashish Chhabra
 
-**Intern @ Schneider Electric** | I build production systems — backends, ML pipelines, and LLM tooling.
+**Intern @ Schneider Electric** | I build production systems - backends, ML pipelines, and LLM tooling.
 
 Final-year AI & Data Science student who writes code that ships. Currently working on enterprise RAG systems and Model Context Protocol implementations at Schneider. I care about clean architecture, reliable infrastructure, and ML that works outside notebooks.
 
@@ -47,7 +47,7 @@ Data             Pandas · NumPy · Apache Kafka · ETL Pipelines
 
 ## Currently
 
-- 🎓 B.E. AI & Data Science @ NMIT Bangalore — 8.2 CGPA, June 2026
+- 🎓 B.E. AI & Data Science @ NMIT Bangalore - 8.2 CGPA, June 2026
 - 🔧 At Schneider Electric: RAG architectures, vector DB evaluation, MCP backends
 - 📜 Certified: Azure Fundamentals, Generative AI with LLMs
 
@@ -57,8 +57,8 @@ Data             Pandas · NumPy · Apache Kafka · ETL Pipelines
 
 ## Open To
 
-**Software Engineering** — Backend systems, APIs, distributed architecture  
-**AI/ML Engineering** — RAG, LLM integration, production ML pipelines  
-**Data Science** — Analytics, forecasting, building data products
+**Software Engineering** - Backend systems, APIs, distributed architecture  
+**AI/ML Engineering** - RAG, LLM integration, production ML pipelines  
+**Data Science** - Analytics, forecasting, building data products
 
 📧 [ashchh2004@gmail.com](mailto:ashchh2004@gmail.com) · [LinkedIn](https://linkedin.com/in/chhabra-ashish-be)
