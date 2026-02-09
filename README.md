@@ -1,64 +1,65 @@
 # Ashish Chhabra
 
-**Intern @ Schneider Electric** | I build production systems - backends, ML pipelines, and LLM tooling.
+**AI/ML Engineer** | Building retrieval systems, agentic AI tools, and data-driven platforms.
 
-Final-year AI & Data Science student who writes code that ships. Currently working on enterprise RAG systems and Model Context Protocol implementations at Schneider. I care about clean architecture, reliable infrastructure, and ML that works outside notebooks.
+Final-year AI & Data Science student at NMIT Bangalore. I build AI systems that work beyond the notebook -- RAG pipelines that don't hallucinate, tools that AI agents can reason with, and models that drive real decisions. I care about clean architecture, evaluation rigor, and ML that ships to production.
 
 ---
 
 ## What I Build
 
-### AI/LLM Systems
-| Project | Description |
-|---------|-------------|
-| [**TOON MCP Server**](https://github.com/AshC2004/MCP) | TypeScript MCP server with custom parser/serializer for LLM-tool integration. Full test suite, CI pipeline. |
-| [**Document Intelligence**](https://github.com/AshC2004/document-intelligence) | RAG pipeline (LangChain + Pinecone) for technical Q&A. Chain-of-thought prompting, sub-2s latency. |
+### AI/ML Systems
 
-### Backend & Infrastructure
 | Project | Description |
 |---------|-------------|
-| [**Email Service**](https://github.com/AshC2004/Email_Service) | Async delivery with RabbitMQ, PostgreSQL, Redis. Retry logic, rate limiting, 1,000+ daily transactions. |
-| [**Realtime Chat**](https://github.com/AshC2004/realtime-chat) | WebSocket messaging with React, Node.js, MongoDB, Redis caching. |
+| [**Document Intelligence**](https://github.com/AshC2004/document-intelligence) | RAG pipeline using LangChain + Pinecone for technical Q&A. Cross-encoder re-ranking, source attribution, 65% hallucination reduction, sub-2s latency. |
+| [**MCP Server**](https://github.com/AshC2004/MCP) | Model Context Protocol server for data contract impact analysis. AI agents autonomously analyze schema changes and trace downstream dependencies. |
+| [**TOON**](https://github.com/AshC2004/TOON-Token-Object-Oriented-Notation-) | Token-efficient code notation for LLMs. AST-based compression that reduces token usage by 50-70%. Zero dependencies. |
 
-### Data & Analytics
+### Data Science & Analytics
+
 | Project | Description |
 |---------|-------------|
-| [**Stock Risk Analytics**](https://github.com/AshC2004/stock-risk-analytics) | Kafka streaming pipeline for NSE data. VaR calculations, correlation matrices, Streamlit dashboard. |
-| [**SILO Inventory**](https://github.com/AshC2004/SILO-inventory-optimization) | LSTM demand forecasting + NLP chatbot for inventory optimization. Team lead, 4 members. |
+| **NSE Stock Portfolio Analytics** | Predictive models for portfolio risk assessment (VaR, CVaR, Sharpe ratio) across 50+ NSE stocks. Power BI dashboards with 15+ KPIs. |
+
+### Software Engineering
+
+| Project | Description |
+|---------|-------------|
+| [**Email Service**](https://github.com/AshC2004/Email_Service) | Transactional email API with async processing (RabbitMQ), rate limiting (Redis), retry logic, and dead letter queues. Fully containerized. |
+| [**How to GitHub**](https://github.com/AshC2004/How_to_Github) | Open-source guide to Git workflows -- 10 chapters from beginner to CI/CD. |
 
 ---
 
 ## Tech Stack
 
 ```
-Languages        Python · TypeScript · JavaScript · SQL · C++
+Languages        Python · JavaScript · SQL
 
-AI/ML            LangChain · RAG · PyTorch · TensorFlow · scikit-learn
-                 Pinecone · Weaviate · OpenAI API · Prompt Engineering
+AI/ML            LangChain · RAG · PyTorch · scikit-learn
+                 Pinecone · OpenAI API · MCP Protocol
 
-Backend          FastAPI · Node.js · Express · REST APIs · WebSocket
-                 Docker · RabbitMQ · Redis · PostgreSQL · MongoDB
+Backend          FastAPI · Docker · RabbitMQ · Redis
+                 PostgreSQL · MongoDB · REST APIs
 
-Data             Pandas · NumPy · Apache Kafka · ETL Pipelines
-                 Streamlit · Statistical Modeling
+Data             Pandas · NumPy · Apache Kafka · Power BI
+                 Statistical Modeling · ETL Pipelines
 ```
 
 ---
 
 ## Currently
 
-- 🎓 B.E. AI & Data Science @ NMIT Bangalore - 8.4 CGPA, Graduting June 2026
-- 🔧 At Schneider Electric: RAG architectures, vector DB evaluation, MCP backends
-- 📜 Certified: Azure Fundamentals, Generative AI with LLMs
-
-**Leadership:** Secretary @ IEEE CIS | VP @ AUGMENTiX (AI Society)
+- 🎓 B.E. AI & Data Science @ NMIT Bangalore — 8.5 CGPA, Graduating June 2026
+- 📜 Certified: Deep Learning Specialization (Coursera) · Bloomberg Technology Program
+- 🏛 VP @ AUGMENTiX (AI & Data Science society) · Secretary @ IEEE CIS
 
 ---
 
 ## Open To
 
-**Software Engineering** - Backend systems, APIs, distributed architecture  
-**AI/ML Engineering** - RAG, LLM integration, production ML pipelines  
-**Data Science** - Analytics, forecasting, building data products
+**AI/ML Engineering** — RAG, LLM integration, agentic AI, production ML pipelines
+**Data Science** — Predictive modeling, analytics, risk modeling, dashboards
+**Software Engineering** — Backend systems, APIs, distributed architecture
 
 📧 [ashchh2004@gmail.com](mailto:ashchh2004@gmail.com) · [LinkedIn](https://linkedin.com/in/chhabra-ashish-be)
