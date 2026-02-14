@@ -12,6 +12,8 @@ Final-year AI & Data Science student at NMIT Bangalore. I build AI systems that 
 
 | Project | Description |
 |---------|-------------|
+| [**Conversation API**](https://github.com/AshC2004/conversation-api) | Production-grade REST API for AI-powered conversations with FastAPI, Supabase, and multi-provider LLM support (Groq + Google AI). SSE streaming, token counting, cost tracking, ownership enforcement. 26 integration tests, full OpenAPI docs. |
+| [**MCP Financial Server**](https://github.com/AshC2004/mcp-financial-server) | Model Context Protocol server exposing financial data tools over Supabase PostgreSQL. Query company profiles, financial reports, stock prices, and analyst ratings for Claude Desktop and Cursor. |
 | [**Document Intelligence**](https://github.com/AshC2004/document-intelligence) | RAG pipeline using LangChain + Pinecone for technical Q&A. Cross-encoder re-ranking, source attribution, 65% hallucination reduction, sub-2s latency. |
 | [**MCP Server**](https://github.com/AshC2004/MCP) | Model Context Protocol server for data contract impact analysis. AI agents autonomously analyze schema changes and trace downstream dependencies. |
 | [**TOON**](https://github.com/AshC2004/TOON-Token-Object-Oriented-Notation-) | Token-efficient code notation for LLMs. AST-based compression that reduces token usage by 50-70%. Zero dependencies. |
@@ -37,10 +39,12 @@ Final-year AI & Data Science student at NMIT Bangalore. I build AI systems that 
 Languages        Python · JavaScript · SQL
 
 AI/ML            LangChain · RAG · PyTorch · scikit-learn
-                 Pinecone · OpenAI API · MCP Protocol
+                 Pinecone · OpenAI API · Groq · Google AI
+                 MCP Protocol
 
-Backend          FastAPI · Docker · RabbitMQ · Redis
-                 PostgreSQL · MongoDB · REST APIs
+Backend          FastAPI · Supabase · Docker · RabbitMQ
+                 Redis · PostgreSQL · MongoDB · REST APIs
+                 Server-Sent Events (SSE)
 
 Data             Pandas · NumPy · Apache Kafka · Power BI
                  Statistical Modeling · ETL Pipelines
