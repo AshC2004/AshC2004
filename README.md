@@ -12,10 +12,12 @@ Final-year AI & Data Science student at NMIT Bangalore. I build AI systems that 
 
 | Project | Description |
 |---------|-------------|
+| [**DarkStore Analytics Platform**](https://github.com/AshC2004/Dark-Store-Analytics-Platform) | AI-powered microservices platform for dark-store operations — demand forecasting (ARIMA/SARIMA/Holt-Winters/RF/GB), picker-route optimization, anomaly detection, product-affinity analysis, an LLM chatbot, and an MCP server. 8 FastAPI services behind a gateway, React dashboard, Docker Compose. |
+| [**Semantic SQL MCP**](https://github.com/AshC2004/semantic-sql-mcp) | Three-microservice MCP stack exposing a Postgres warehouse to Claude/Cursor: semantic column mapping with automatic JOIN-path discovery, Row-Level Security per analyst, AST-based SQL allowlisting. 13 MCP tools. |
 | [**Conversation API**](https://github.com/AshC2004/conversation-api) | Production-grade REST API for AI-powered conversations with FastAPI, Supabase, and multi-provider LLM support (Groq + Google AI). SSE streaming, token counting, cost tracking, ownership enforcement. 26 integration tests, full OpenAPI docs. |
 | [**MCP Financial Server**](https://github.com/AshC2004/mcp-financial-server) | Model Context Protocol server exposing financial data tools over Supabase PostgreSQL. Query company profiles, financial reports, stock prices, and analyst ratings for Claude Desktop and Cursor. |
 | [**Document Intelligence**](https://github.com/AshC2004/document-intelligence) | RAG pipeline using LangChain + Pinecone for technical Q&A. Cross-encoder re-ranking, source attribution, 65% hallucination reduction, sub-2s latency. |
-| [**MCP Server**](https://github.com/AshC2004/MCP) | Model Context Protocol server for data contract impact analysis. AI agents autonomously analyze schema changes and trace downstream dependencies. |
+| [**MCP**](https://github.com/AshC2004/MCP) | Model Context Protocol server for data contract impact analysis. AI agents autonomously analyze schema changes and trace downstream dependencies. |
 | [**TOON**](https://github.com/AshC2004/TOON-Token-Object-Oriented-Notation-) | Token-efficient code notation for LLMs. AST-based compression that reduces token usage by 50-70%. Zero dependencies. |
 
 ### Data Science & Analytics
