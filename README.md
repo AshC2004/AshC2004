@@ -12,7 +12,7 @@ Final-year AI & Data Science student at NMIT Bangalore. I build AI systems that 
 
 | Project | Description |
 |---------|-------------|
-| [**DarkStore Analytics Platform**](https://github.com/AshC2004/Dark-Store-Analytics-Platform) | AI-powered microservices platform for dark-store operations — demand forecasting (ARIMA/SARIMA/Holt-Winters/RF/GB), picker-route optimization, anomaly detection, product-affinity analysis, an LLM chatbot, and an MCP server. 8 FastAPI services behind a gateway, React dashboard, Docker Compose. |
+| [**DarkStore Analytics Platform**](https://github.com/AshC2004/Dark-Store-Analytics-Platform) | AI-powered microservices platform for dark-store operations: demand forecasting (ARIMA/SARIMA/Holt-Winters/RF/GB), picker-route optimization, anomaly detection, product-affinity analysis, an LLM chatbot, and an MCP server. 8 FastAPI services behind a gateway, React dashboard, Docker Compose. |
 | [**Semantic SQL MCP**](https://github.com/AshC2004/semantic-sql-mcp) | Three-microservice MCP stack exposing a Postgres warehouse to Claude/Cursor: semantic column mapping with automatic JOIN-path discovery, Row-Level Security per analyst, AST-based SQL allowlisting. 13 MCP tools. |
 | [**Conversation API**](https://github.com/AshC2004/conversation-api) | Production-grade REST API for AI-powered conversations with FastAPI, Supabase, and multi-provider LLM support (Groq + Google AI). SSE streaming, token counting, cost tracking, ownership enforcement. 26 integration tests, full OpenAPI docs. |
 | [**MCP Financial Server**](https://github.com/AshC2004/mcp-financial-server) | Model Context Protocol server exposing financial data tools over Supabase PostgreSQL. Query company profiles, financial reports, stock prices, and analyst ratings for Claude Desktop and Cursor. |
@@ -56,7 +56,7 @@ Data             Pandas · NumPy · Apache Kafka · Power BI
 
 ## Currently
 
-- 🎓 B.E. AI & Data Science @ NMIT Bangalore — 8.5 CGPA, Graduating June 2026
+- 🎓 B.E. AI & Data Science @ NMIT Bangalore, 8.5 CGPA, Graduating June 2026
 - 📜 Certified: Deep Learning Specialization (Coursera) · Bloomberg Technology Program
 - 🏛 VP @ AUGMENTiX (AI & Data Science society) · Secretary @ IEEE CIS
 
@@ -64,8 +64,8 @@ Data             Pandas · NumPy · Apache Kafka · Power BI
 
 ## Open To
 
-**AI/ML Engineering** — RAG, LLM integration, agentic AI, production ML pipelines
-**Data Science** — Predictive modeling, analytics, risk modeling, dashboards
-**Software Engineering** — Backend systems, APIs, distributed architecture
+**AI/ML Engineering**: RAG, LLM integration, agentic AI, production ML pipelines
+**Data Science**: Predictive modeling, analytics, risk modeling, dashboards
+**Software Engineering**: Backend systems, APIs, distributed architecture
 
 📧 [ashchh2004@gmail.com](mailto:ashchh2004@gmail.com) · [LinkedIn](https://linkedin.com/in/chhabra-ashish-be)
