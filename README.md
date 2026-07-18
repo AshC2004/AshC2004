@@ -18,6 +18,8 @@ Final-year AI & Data Science student at NMIT Bangalore. I build AI systems that 
 | [**MCP Financial Server**](https://github.com/AshC2004/mcp-financial-server) | Model Context Protocol server exposing financial data tools over Supabase PostgreSQL. Query company profiles, financial reports, stock prices, and analyst ratings for Claude Desktop and Cursor. |
 | [**Document Intelligence**](https://github.com/AshC2004/document-intelligence) | RAG pipeline using LangChain + Pinecone for technical Q&A. Cross-encoder re-ranking, source attribution, 65% hallucination reduction, sub-2s latency. |
 | [**MCP**](https://github.com/AshC2004/MCP) | Model Context Protocol server for data contract impact analysis. AI agents autonomously analyze schema changes and trace downstream dependencies. |
+| [**Expense Tracker MCP Server**](https://github.com/AshC2004/expense-tracker-mcp-server) | MCP server for tracking personal expenses and wallet balance over SQLite. Input-validated tools, category taxonomy exposed as an MCP resource, full test suite. |
+| [**Reddit MCP Server**](https://github.com/AshC2004/mcp-reddit) | MCP server for browsing Reddit content in Claude: subreddit feeds, post content, and full comment-tree traversal, no API keys required. |
 | [**TOON**](https://github.com/AshC2004/TOON-Token-Object-Oriented-Notation-) | Token-efficient code notation for LLMs. AST-based compression that reduces token usage by 50-70%. Zero dependencies. |
 
 ### Data Science & Analytics
